@@ -1,0 +1,48 @@
+Nutresa:
+
+Juan David Tangarife - Lider Analitica
+
+PowerBI:
+Juan Carlos Gonzales
+Javier Gonzales
+
+Daniel Barragan - control de abastecimiento.
+
+-------
+
+Doria
+Emils
+Costa Rica
+Chocolates
+Noel
+
+---------------------
+
+1. Assesment(8AM)
+	Req. Usuario administrador del tenant y usuario general
+
+	- BDA - SAP BW / Otros DBA
+	- GDrive
+	- Infraestructura
+	- Admin PowerBI
+	- Usuario (Pastas)
+
+2. Capacitación
+	Taller en PPT
+
+	- Usuarios
+
+3. Power BI In a Day
+	Taller en PPT
+
+	- Usuarios
+
+4. Gobierno
+	Req. Usuario administrador del tenant y usuario general
+
+	- Administrador actual
+	- BDA
+	- Admin PowerBI
+	- Usuarios
+
+
